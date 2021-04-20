@@ -1,0 +1,424 @@
+{
+    "kids": {
+        "tshirts": [
+            {
+                "name": "Cat and Jack - Boys All My Friends Are Pokemon' Short Sleeve Graphic T-Shirt - Blue",
+                "price": "$5",
+                "size": "Medium",
+                "loc": "./images/Kids_page/tshirts/Boys All My Friends Are Pokemon' Short Sleeve Graphic T-Shirt - Blue.png"
+            },
+            {
+                "name": "Boys' Avengers Short Sleeve Graphic T-Shirt - Gray",
+                "price": "$27",
+                "size": "Small",
+                "loc": "./images/Kids_page/tshirts/Boys' Avengers Short Sleeve Graphic T-Shirt - Gray.png"
+
+            },
+            {
+                "name": "Boys' Minecraft Periodic Table Short Sleeve T-Shirt - Green",
+                "price": "$18",
+                "size": "Medium",
+                "loc": "./images/Kids_page/tshirts/Boys' Minecraft Periodic Table Short Sleeve T-Shirt - Green.png"
+
+            },
+            {
+                "name": "Girls' Short Sleeve T-Shirt - Cat & Jack™",
+                "price": "$9",
+                "size": "Large",
+                "loc": "./images/Kids_page/tshirts/Boys' Short Sleeve Baseball Favorite T-Shirt - Cat & Jack™.png"
+
+            },
+            {
+                "name": "Girls' Super Mario 'Race Ya' Short Sleeve Graphic T-Shirt - Light Blue",
+                "price": "$20",
+                "size": "Medium",
+                "loc": "./images/Kids_page/tshirts/Boys' Super Mario Race Ya Short Sleeve Graphic T-Shirt - Light Blue.png"
+
+            }
+        ],
+
+        "pants": [
+            {
+                "name": "Boys' Track Pants - All in Motion™",
+                "price": "$7",
+                "size": "Small",
+                "loc": "./images/Kids_page/pants/pants_long_1.png"
+            },
+            {
+                "name": "Boys' Stretch Straight Fit Jeans - Cat & Jack™  Wash",
+                "price": "$15",
+                "size": "Large",
+                "loc": "./images/Kids_page/pants/pants_long_2.png"
+
+            },
+            {
+                "name": " Boy's Stretch Straight Fit Pull-On Woven Pants - Cat & Jack" ,
+                "price": "$24",
+                "size": "Large",
+                "loc": "./images/Kids_page/pants/pants_medium_1.png"
+
+            },
+            {
+                "name": "Boys' Performance Pants - All in Motion™ ",
+                "price": "$30",
+                "size": "Large",
+                "loc": "./images/Kids_page/pants/pants_short_1.png"
+
+            },
+            {
+                "name": "Toddler Boys' Pull-On Pants - Cat & Jack™",
+                "price": "$15",
+                "size": "Large",
+                "loc": "./images/Kids_page/pants/pants_short_2.png"
+
+            }
+        ],
+        
+        "hats": [
+            {
+                "name": "Girls' Straw Floppy Hat - Cat & Jack™ Cream One Size",
+                "price": "$6",
+                "size": "Small",
+                "loc": "./images/Kids_page/hats/hat_fedora_2.png"
+            },
+            {
+                "name": "Boys' Minecraft Creeper Baseball Hat - Green/Black",
+                "price": "$10",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_fedora_1.png"
+
+            },
+            {
+                "name": "Toddler Girls' Disney Frozen Baseball Hat - Blue One size",
+                "price": "$18",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_long_1.png"
+
+            },
+            {
+                "name": "Toddler Minnie Mouse Baseball Hat - Blue One Size",
+                "price": "$12",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_long_2.png"
+
+            },
+            {
+                "name": "Toddler Boys' PAW Patrol Baseball Hat",
+                "price": "$30",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_medium_1.png"
+
+            },
+            {
+                "name": "Second Test Baseball Hat",
+                "price": "$22",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_medium_1.png"
+
+            },
+            {
+                "name": "Third Test Baseball Hat",
+                "price": "$27",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_medium_1.png"
+
+            },
+            {
+                "name": "Girls' Embroideried Floppy Hat - art class™ Brown One Size ",
+                "price": "$25",
+                "size": "Large",
+                "loc": "./images/Kids_page/hats/hats_medium_2.png"
+
+            }
+        ]
+
+
+    },
+
+ 
+
+    "men": {
+        "tshirts": [
+            {
+                "name": "Fruit of the Loom Men's Crew Shirt 5pk",
+                "price": "$5",
+                "size": "Medium",
+                "loc": "./images/Men_page/tshirts/Fruit of the Loom Men's Crew Shirt 5pk.png"
+            },
+            {
+                "name": "Hanes Men's Short Sleeve Beefy T-Shirt",
+                "price": "$9",
+                "size": "Small",
+                "loc": "./images/Men_page/tshirts/Hanes Men's Short Sleeve Beefy T-Shirt.png"
+
+            },
+            {
+                "name": "Men's  Long Sleeve Raglan Color Block Crew T-Shirt - Goodfellow & Co™",
+                "price": "$14",
+                "size": "Medium",
+                "loc": "./images/Men_page/tshirts/Men's  Long Sleeve Raglan Color Block Crew T-Shirt - Goodfellow & Co™.png"
+
+            },
+            {
+                "name": "Men's  Short Sleeve V-Neck T-Shirt - Goodfellow & Co™",
+                "price": "$20",
+                "size": "Large",
+                "loc": "./images/Men_page/tshirts/Men's  Short Sleeve V-Neck T-Shirt - Goodfellow & Co™.png"
+
+            },
+            {
+                "name": "Men's Polo Jersey Shirt - Goodfellow & Co™",
+                "price": "$30",
+                "size": "Medium",
+                "loc": "./images/Men_page/tshirts/Men's Polo Jersey Shirt - Goodfellow & Co™.png"
+
+            },
+            {
+                "name": "Men's Standard Fit Short Sleeve Henley T-Shirt - Goodfellow & Co™",
+                "price": "$260",
+                "size": "Medium",
+                "loc": "./images/tshirts/Men's Standard Fit Short Sleeve Henley T-Shirt - Goodfellow & Co™.png"
+
+            },
+            {
+                "name": "Men's Standard Fit Short Sleeve Lyndale Crew Neck T-Shirt - Goodfellow & Co™",
+                "price": "$15",
+                "size": "Medium",
+                "loc": "./images/Men_page/tshirts/Men's Standard Fit Short Sleeve Lyndale Crew Neck T-Shirt - Goodfellow & Co™.png"
+
+            }
+        ],
+
+        "pants": [
+            {
+                "name": "DENIZEN® from Levi's® Men's 285 Relaxed Fit Jeans",
+                "price": "$10",
+                "size": "Small",
+                "loc": "./images/Men_page/pants/DENIZEN® from Levi's® Men's 285 Relaxed Fit Jeans.png"
+            },
+            {
+                "name": "Haggar H26 Men's Performance 4 Way Stretch Straight Fit Trouser Pants",
+                "price": "$8",
+                "size": "Large",
+                "loc": "./images/Men_page/pants/Haggar H26 Men's Performance 4 Way Stretch Straight Fit Trouser Pants.png"
+
+            },
+            {
+                "name": "Men's Slim Fit Hennepin Chino Pants - Goodfellow & Co™",
+                "price": "$12",
+                "size": "Large",
+                "loc": "./images/Men_page/pants/Men's Slim Fit Hennepin Chino Pants - Goodfellow & Co™.png"
+
+            },
+            {
+                "name": "Men's Slim Fit Tech Chino Pants - Goodfellow & Co™",
+                "price": "$18",
+                "size": "Large",
+                "loc": "./images/Men_page/pants/Men's Slim Fit Tech Chino Pants - Goodfellow & Co™.png"
+
+            },
+            {
+                "name": "Men's Slim Pants - Goodfellow & Co™",
+                "price": "$27",
+                "size": "Large",
+                "loc": "./images/Men_page/pants/Men's Slim Pants - Goodfellow & Co™.png"
+
+            }
+        ],
+        
+        "hats": [
+            {
+                "name": "Callaway Liquid Metal Hat",
+                "price": "$10",
+                "size": "Small",
+                "loc": "./images/Men_page/hats/Callaway Liquid Metal Hat.png"
+            },
+            {
+                "name": "Men's Ripstop Bonnie Hat - Goodfellow & Co™ Khaki",
+                "price": "$10",
+                "size": "Small",
+                "loc": "./images/Men_page/hats/Men's Ripstop Bonnie Hat - Goodfellow & Co™ Khaki.png"
+            },
+            {
+                "name": "MLB Men's Cleanup Hat",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Men_page/hats/MLB Men's Cleanup Hat.png"
+
+            },
+            {
+                "name": "MLB Men's Rodeo Snap Hat",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Men_page/hats/MLB Men's Rodeo Snap Hat.png"
+
+            },
+            {
+                "name": "NHL Chicago Blackhawks Men's Moneymaker Hat",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Men_page/hats/NHL Chicago Blackhawks Men's Moneymaker Hat.png"
+
+            },
+            {
+                "name": "NHL Nashville Predators Men's Cleanup Hat",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Men_page/hats/NHL Nashville Predators Men's Cleanup Hat.png"
+
+            },
+            {
+                "name": "NHL Men's Cleanup Hat",
+                "price": "$29",
+                "size": "Large",
+                "loc": "./images/Men_page/hats/NHL Men's Cleanup Hat.png"
+
+            }
+        ]
+
+
+    },
+    
+
+    "women": {
+        "tshirts": [
+            {
+                "name": "Women's easy Scoop Neck T-Shirt - A New Day™",
+                "price": "$5",
+                "size": "Medium",
+                "loc": "./images/Women_page/tshirts/Women's easy Scoop Neck T-Shirt - A New Day™.png"
+            },
+            {
+                "name": "Women's Short Sleeve Neck T-Shirt - A New Day™",
+                "price": "$27",
+                "size": "Small",
+                "loc": "./images/Women_page/tshirts/Women's Short Sleeve Neck T-Shirt - A New Day™.png"
+
+            },
+            {
+                "name": "Women's Short Sleeve T-Shirt - Wild Fable™",
+                "price": "$18",
+                "size": "Medium",
+                "loc": "./images/Women_page/tshirts/Women's Short Sleeve T-Shirt - Wild Fable™.png"
+
+            },
+            {
+                "name": "Women's Short Sleeve V-Neck T-Shirt - Universal Thread™",
+                "price": "$10",
+                "size": "Large",
+                "loc": "./images/Women_page/tshirts/Women's Short Sleeve V-Neck T-Shirt - Universal Thread™.png"
+
+            },
+            {
+                "name": "Women's Slim Fit Short Sleeve V-Neck Fitted T-Shirt - A New Day™",
+                "price": "$30",
+                "size": "Medium",
+                "loc": "./images/Women_page/tshirts/Women's Slim Fit Short Sleeve V-Neck Fitted T-Shirt - A New Day™.png"
+
+            }
+        ],
+
+        "pants": [
+            {
+                "name": "DENIZEN® from Levi's® Women's High-Rise Mom Jeans",
+                "price": "$10",
+                "size": "Small",
+                "loc": "./images/Women_page/pants/DENIZEN® from Levi's® Women's High-Rise Mom Jeans.png"
+            },
+            {
+                "name": "Women's High-Rise Cropped Straight Jeans - Universal Thread™ Medium Wash",
+                "price": "$8",
+                "size": "Large",
+                "loc": "./images/Women_page/pants/Women's High-Rise Cropped Straight Jeans - Universal Thread™ Medium Wash.png"
+
+            },
+            {
+                "name": "Women's High-Rise Distressed Straight Cropped Jeans - Universal Thread™ Medium Blue",
+                "price": "$12",
+                "size": "Large",
+                "loc": "./images/Women_page/pants/Women's High-Rise Distressed Straight Cropped Jeans - Universal Thread™ Medium Blue.png"
+
+            },
+            {
+                "name": "Women's High-Rise Skinny Ankle Jeans - Universal Thread™",
+                "price": "$18",
+                "size": "Large",
+                "loc": "./images/Women_page/pants/Women's High-Rise Skinny Ankle Jeans - Universal Thread™.png"
+
+            },
+            {
+                "name": "Women's Mid-Rise Curvy Skinny Jeans - Universal Thread™",
+                "price": "$27",
+                "size": "Large",
+                "loc": "./images/Women_page/pants/Women's Mid-Rise Curvy Skinny Jeans - Universal Thread™.png"
+
+            }
+        ],
+        
+        "hats": [
+            {
+                "name": "Women's Floppy Hat - A New Day™",
+                "price": "$10",
+                "size": "Small",
+                "loc": "./images/Women_page/hats/Women's Floppy Hat - A New Day™.png"
+            },
+            {
+                "name": "Women's flower Hat - A New Day™",
+                "price": "$10",
+                "size": "Small",
+                "loc": "./images/Women_page/hats/Women's Floppy  Test 22  Hat - A New Day™.png"
+            },
+            {
+                "name": "Women's Open Weave Straw Bucket Hats - Universal Thread™ Black One Size",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Open Weave Straw Bucket Hats - Universal Thread™ Black One Size.png"
+
+            },
+            {
+                "name": "Women's Open Weave Visor Hats - A New Day™ Black One Size",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Open Weave Visor Hats - A New Day™ Black One Size.png"
+
+            },
+            {
+                "name": "Women's Panama Hat - A New Day™",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Panama Hat - A New Day™.png"
+
+            },
+            {
+                "name": "Women's Print Band Floppy Hats - A New Day™ Natural One Size",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Print Band Floppy Hats - A New Day™ Natural One Size.png"
+
+            },
+            {
+                "name": "Women's Solid Bucket Hat - Wild Fable™ Black One Size",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Solid Bucket Hat - Wild Fable™ Black One Size.png"
+
+            },
+            {
+                "name": "Women's Straw Boater Hats - Universal Thread™ Berry One Size",
+                "price": "$19",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Straw Boater Hats - Universal Thread™ Berry One Size.png"
+
+            },
+            {
+                "name": "Women's Straw Wide Brim Fedora Hats - Universal Thread™ White One Size",
+                "price": "$29",
+                "size": "Large",
+                "loc": "./images/Women_page/hats/Women's Straw Wide Brim Fedora Hats - Universal Thread™ White One Size.png"
+
+            }
+        ]
+
+
+    }
+}
