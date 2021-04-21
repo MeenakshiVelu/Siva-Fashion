@@ -249,7 +249,8 @@ aside h4 {
   /* border: 2px solid blue; */
   margin: 10px;
   display: grid;
-  grid-template-columns: auto auto auto;
+  /* grid-template-columns: auto auto auto; */
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
 }
 .kids_card {
   position: relative;
@@ -333,7 +334,8 @@ aside h4 {
   /* border: 2px solid blue; */
   margin: 10px;
   display: grid;
-  grid-template-columns: auto auto auto;
+  /* grid-template-columns: auto auto auto; */
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
 }
 .women_card {
   position: relative;
@@ -421,7 +423,8 @@ aside h4 {
   /* border: 2px solid blue; */
   margin: 10px;
   display: grid;
-  grid-template-columns: auto auto auto;
+  /* grid-template-columns: auto auto auto; */
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
 }
 .men_card {
   position: relative;
