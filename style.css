@@ -257,6 +257,7 @@ aside h4 {
   /* border: 0.1px solid black; */
   box-shadow: 3px 3px 5px gray;
   margin: 5px;
+  background-color: rgb(184, 195, 201);
   padding: 5px;
   height: 500px;
   width: 274px;
@@ -341,6 +342,7 @@ aside h4 {
   position: relative;
   /* border: 0.1px solid black; */
   box-shadow: 3px 3px 5px gray;
+  background-color: rgb(184, 195, 201);
   margin: 5px;
   padding: 5px;
   height: 500px;
@@ -429,7 +431,7 @@ aside h4 {
 .men_card {
   position: relative;
   color: #020a05;
-  background-color: rgb(155, 159, 161);
+  background-color: rgb(184, 195, 201);
   /* border: 1px solid black; */
   box-shadow: 3px 3px 5px gray;
   margin: 5px;
