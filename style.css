@@ -330,19 +330,20 @@ aside h4 {
 }
 
 #women_allprod {
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   margin: 10px;
   display: grid;
   grid-template-columns: auto auto auto;
 }
 .women_card {
   position: relative;
-  border: 0.1px solid black;
+  /* border: 0.1px solid black; */
+  box-shadow: 3px 3px 5px gray;
   margin: 5px;
   padding: 5px;
   height: 500px;
   width: 274px;
-  box-shadow: 3px 3px 5px gray;
+  /* box-shadow: 3px 3px 5px gray; */
 }
 .women_card > img {
   /* border:2px solid red; */
